@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="retournez_la_page_d_acceuil">Retournez à la page d\'acceuil</string>
+    <string name="take_photo">take_photo</string>
+    <string name="start_capture">start_capture</string>
+    <string-array name="dropdown_items">
+        <item> Administrateur</item>
+        <item> Enrôleur </item>
+        <item> Agent d\'identification </item>
+    </string-array>
+
+    <string name="stop_capture">Stop Capture</string>
+</resources>

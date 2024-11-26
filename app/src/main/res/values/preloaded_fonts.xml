@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/ballet</item>
+        <item>@font/combo</item>
+        <item>@font/darker_grotesque_bold</item>
+        <item>@font/domine</item>
+        <item>@font/fragment_mono</item>
+        <item>@font/noto_sans_batak</item>
+    </array>
+</resources>
